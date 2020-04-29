@@ -1,6 +1,6 @@
 # Blender Discord Theme
 Blender theme with Discords color pallete.
-Blender 2.8x+e.
+Blender 2.8x+.
 
 ## Install
 * Open Blender Preferences **(Edit > Preferences)**
