@@ -1,5 +1,5 @@
 # Blender Discord Theme
-Blender theme with [Discords](https://discordapp.com) color palette.
+Blender theme with [Discord's](https://discord.com) color palette.
 
 ## Install
 * Open Blender Preferences **(Edit > Preferences)**
